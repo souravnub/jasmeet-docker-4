@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Student" ALTER COLUMN "courses" SET NOT NULL,
+ALTER COLUMN "courses" SET DATA TYPE TEXT;
